@@ -5,11 +5,13 @@ Git Repository for Assessment 2 Working With Data and Code Called Coding Jazz cr
 * [General info](#general-info)
 * [Technologies used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Status](#status)
 * [Room for Improvement](Room-For-Improvement)
 * [Sources](#sources)
+* [Acknowledgements](#Acknowledgements)
+
+  
 
 ## General Info 
 
@@ -34,21 +36,54 @@ They were used to create the code alongside a wealth of online resources and cod
 
 
 ## Features
+
 Some of the features of my code prototype include:
 * 4 Different instruments that each have unique lines of code
 * Nested loops to repeat certain phrases within a larger loop, e.g.:
 ![image](https://github.com/user-attachments/assets/fa809abf-8c03-4a13-b5f3-a65754a1cd3e)
 * 2 Dimensional Lists created to play changing measure melodies against a single rhythm measure, and repeat certain measures as seen in the code for the bass.
 
-## Screenshots
 
 ## Setup
 
-## Sources
+Since this prototype was created using TunePad, the setup is simple. Follow the File titled "Coding with Jazz - Tunepad" and click the link to open the project. 
+
+Then, click the play button in the top right hand corner to play the song, and scroll down through to view the code for each individual instrument and the code comments that state if there was a source used/information/explanation regarding the code and its purpose. 
+
 
 ## Status
 
+Prototype is no longer being worked on. When it comes to creating music, there will always be more you can add to it, but for now this is the extent that the Jazz peice I have created will be worked on for now. I feel as if the level it is at has taught me an extensive amount regarding coding with Python.
+
+
 ## Room for Improvement
+
+Room for improvement:
+* If there was more time to complete the project, there could be other instruments added to add more depth to the peice of music, but due to the time constrained nature of this assessment, only 4 instruments were used to ensure that enough time could be spent on refining and learning new Python coding practices.
+* Another improvement could be exploring even more TunePad projects to see what other code has been used. Since Python is limited in TunePad, and there are different functions, oftentimes it was quite difficult to figure out how to do something I was trying to achieve, e.g. creating the 2 Dimensional list. 
+
+
+## Sources
+
+The specific source used to aid in coding the prototype are listed in the "Coding with Jazz" text cell at the beginning of the prototype, once you open the project link. However they are also listed as here:
+
+* Stand By Me. (2015). Learn TunePad. https://learn.tunepad.com/tutorials/stand-by-me/
+* (2024). Tunepad.com. https://tunepad.com/help#chords
+* TunePad Documentation. (2024). Learn TunePad. https://learn.tunepad.com/docs/#tunepad.gain
+* Geeksforgeeks. (2017, June 7). loops in python - GeeksforGeeks. GeeksforGeeks. https://www.geeksforgeeks.org/loops-in-python/
+* Quant Metropolis. (2024). Enumerate two python lists simultaneously? Stack Overflow. https://stackoverflow.com/questions/16326853/enumerate-two-python-lists-simultaneously
+* (2024). Tunepad.com. https://tunepad.com/help#chords
+* (2024). Chordify.net. https://chordify.net/chords/underground-canopy-songs/feelm-intermission-chords
+
+
+## Acknowledgements
+
+This project was inspired by the Jazz song Feelm Intermission by Underground Canopy, as referenced above.
+The code for this project was informed/inspired/aided by the series of sources as referenced above and in the coding comments of my project.
+
+
+
+
 
 
 
