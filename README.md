@@ -24,12 +24,21 @@ Despite limitations to using TunePad as a coding program, e.g. that it doesn't a
 Further, a large part of the challenge of using Tunepad and coding to create jazz, is that Jazz as a genre is usually quite flowing, and not as strict as coding music usually allows. However, research into TunePad libraries showed me to use "with swing():" functions to add bounce to rhythms, removing the more mechanical precision that TunePad creates and making it sound more human. 
 
 
+
+
 ## Technologies Used
 
 The technologies used for this project were TunePad and Python.
 They were used to create the code alongside a wealth of online resources and coding libraries, which will be listed in the sources. Where I have used external resources to help me write my code has been written clearly in the code comments, alongside a reference list specific to the resources used to help create my Code on my TunePad website. 
 
+
+
 ## Features
+Some of the features of my code prototype include:
+* 4 Different instruments that each have unique lines of code
+* Nested loops to repeat certain phrases within a larger loop, e.g.:
+![image](https://github.com/user-attachments/assets/fa809abf-8c03-4a13-b5f3-a65754a1cd3e)
+* 2 Dimensional Lists created to play changing measure melodies against a single rhythm measure, and repeat certain measures as seen in the code for the bass.
 
 ## Screenshots
 
