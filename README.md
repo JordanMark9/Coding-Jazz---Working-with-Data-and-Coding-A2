@@ -46,7 +46,7 @@ Some of the features of my code prototype include:
 
 ## Setup
 
-Since this prototype was created using TunePad, the setup is simple. Follow the File titled "Coding with Jazz - Tunepad" and click the link to open the project. 
+Since this prototype was created using TunePad, the setup is simple. Follow the File titled "Coding with Jazz - Tunepad" and click the link to open the project. Alternatively, follow this link: https://tunepad.com/project/86208
 
 Then, click the play button in the top right hand corner to play the song, and scroll down through to view the code for each individual instrument and the code comments that state if there was a source used/information/explanation regarding the code and its purpose. 
 
