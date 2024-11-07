@@ -50,7 +50,7 @@ Since this prototype was created using TunePad, the setup is simple. Follow the 
 
 Then, click the play button in the top right hand corner to play the song, and scroll down through to view the code for each individual instrument and the code comments that state if there was a source used/information/explanation regarding the code and its purpose. 
 
-If you want to view the code as a JSON file, please see the file titled tunepad_project_86208 (3) JSON. 
+If you want to view the code as a JSON file, please see the file titled tunepad_project_86208 (3).json
 
 
 ## Status
