@@ -15,7 +15,7 @@ Git Repository for Assessment 2 Working With Data and Code Called Coding Jazz cr
 
 ## General Info 
 
-This project is called Coding Jazz, and it uses TunePad and Python coding language to create a piece of jazz music.
+This project is called Coding with Jazz, and it uses TunePad and Python coding language to create a piece of jazz music.
 This was a personal challenge I set for myself, as I have pre-existing musical knowledge but very minimal coding knowledge.
 Therefore, this prototype has aided in extending my knowledge of code and taught me more about coding with Python. This means that it solved a personal creative challenge, merging my love for music with learning about how to code with Python.
 
@@ -50,28 +50,30 @@ Since this prototype was created using TunePad, the setup is simple. Follow the 
 
 Then, click the play button in the top right hand corner to play the song, and scroll down through to view the code for each individual instrument and the code comments that state if there was a source used/information/explanation regarding the code and its purpose. 
 
+If you want to view the code as a JSON file, please see the file titled tunepad_project_86208 (3) JSON. 
+
 
 ## Status
 
-Prototype is no longer being worked on. When it comes to creating music, there will always be more you can add to it, but for now this is the extent that the Jazz peice I have created will be worked on for now. I feel as if the level it is at has taught me an extensive amount regarding coding with Python.
+The prototype is no longer being worked on. When it comes to creating music, there will always be more you can add to it, but for now, this is the extent to which the Jazz piece I have created will be worked on. I feel as if the level at which it is has taught me an extensive amount regarding Python coding.
 
 
 ## Room for Improvement
 
 Room for improvement:
-* If there was more time to complete the project, there could be other instruments added to add more depth to the peice of music, but due to the time constrained nature of this assessment, only 4 instruments were used to ensure that enough time could be spent on refining and learning new Python coding practices.
-* Another improvement could be exploring even more TunePad projects to see what other code has been used. Since Python is limited in TunePad, and there are different functions, oftentimes it was quite difficult to figure out how to do something I was trying to achieve, e.g. creating the 2 Dimensional list. 
+* If there was more time to complete the project, there could be other instruments added to add more depth to the piece of music, but due to the time-constrained nature of this assessment, only 4 instruments were used to ensure that enough time could be spent on refining and learning new Python coding practices.
+* Another improvement could be exploring even more TunePad projects to see what other code has been used. Since Python is somewhat limited in TunePad, and there are different functions, it was often difficult to figure out how to do something I was trying to achieve, e.g. creating the 2 Dimensional list. 
 
 
 ## Sources
 
-The specific source used to aid in coding the prototype are listed in the "Coding with Jazz" text cell at the beginning of the prototype, once you open the project link. However they are also listed as here:
+The specific sources used to aid in coding the prototype are listed in the "Coding with Jazz" text cell at the beginning of the prototype once you open the project link. However they are also listed as here:
 
 * Stand By Me. (2015). Learn TunePad. https://learn.tunepad.com/tutorials/stand-by-me/
 * (2024). Tunepad.com. https://tunepad.com/help#chords
 * TunePad Documentation. (2024). Learn TunePad. https://learn.tunepad.com/docs/#tunepad.gain
-* Geeksforgeeks. (2017, June 7). loops in python - GeeksforGeeks. GeeksforGeeks. https://www.geeksforgeeks.org/loops-in-python/
-* Quant Metropolis. (2024). Enumerate two python lists simultaneously? Stack Overflow. https://stackoverflow.com/questions/16326853/enumerate-two-python-lists-simultaneously
+* Geeksforgeeks. (2017, June 7). loops in Python - GeeksforGeeks. GeeksforGeeks. https://www.geeksforgeeks.org/loops-in-python/
+* Quant Metropolis. (2024). Enumerate two Python lists simultaneously. Stack Overflow. https://stackoverflow.com/questions/16326853/enumerate-two-python-lists-simultaneously
 * (2024). Tunepad.com. https://tunepad.com/help#chords
 * (2024). Chordify.net. https://chordify.net/chords/underground-canopy-songs/feelm-intermission-chords
 
